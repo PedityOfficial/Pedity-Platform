@@ -24,6 +24,7 @@ Pedity Platform release version 1.0 (Alpha Milestone) contains the following fea
 8. Instant registration and one click creation of trustline to PEDI
 9. Manual Pinning of content
 10. Reward structure based on algorithm
+11. Sharing of content
 
 Some features that will be added/tested till beta are :-
 1. Favorite articles
