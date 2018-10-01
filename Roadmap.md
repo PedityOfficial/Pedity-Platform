@@ -34,7 +34,8 @@ Some features that will be added/tested till beta are :-
 5. Stress testing of the platform and smart contract
 6. Different type of content 
 7. Open Source API for sharing platform related information
-8. And a lot more
+8. Addition of Federation server to support human readable address such as Example*pedity.com
+9. And a lot more
 
 The things that are planned for next year includes rebranding, mobile platform release, advertising of PEDI , more utility of PEDI tokens. This Roadmap will be updated with more information depending on subsequent releases.
 
