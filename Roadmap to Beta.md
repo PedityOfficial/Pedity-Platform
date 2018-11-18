@@ -23,4 +23,4 @@ Beta - Alpha v0.10 | Not started
 More subsequent information will be added based on future releases.
 
 ## Contact
-In case of any queries, contact us a t.me/pedity
+In case of any queries, contact us at t.me/pedity
