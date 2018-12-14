@@ -3,7 +3,7 @@
 Pedity will reach Beta milestone when we are at Alpha 1.0, that will be Pedity Beta.
 Every milestone is not limited to the Platform, it also included wallet, API, applications and utilities.
 
-In each milestone, there can be further smaller updates that can include bug fixed and feature addition and they will marked as Y, where complete v0.XY.
+In each milestone, there can be further smaller updates that can include bug fixed and feature addition and they will marked as Y, where complete version 0.X.Y or v0.X.Y.
 
 ## The Road to beta can be seen here :-
 
