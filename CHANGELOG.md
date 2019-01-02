@@ -22,11 +22,27 @@ Version 0.1.2 - 13th December 2018
 - Removal of meh icon on Know More and changed it to question mark
 - Other small fixes related to text, spelling mistakes and grammer
 
-Planned Updates for Version 0.1.3, 0.1.4 etc
+Version 0.1.3 - 03rd January 2019
+- Subnavbar not showing on mobile - FIXED 
+- NavBar is not responsive and dropdown not working - FIXED
+- Dropdown not working on alpha page - FIXED
+- Hamburger cross color black on Alpha page - FIXED
+- JS error - Profile reactive component not defined on alpha page - FIXED 
+- Addition of tui editor for better Article Writing Experience (Testing) - DONE
+- Version information doesn't specify the meaning - DONE 
+- Primary info color does is odd and doesn't fit in design - FIXED 
+- Rewards page doesn't specify 0.2 timelines - FIXED 
+- Removal of Tags as they are not required - DONE 
+- Image URL text Size for article is just 50 - Increase to 100 - FIXED 
+- Title for article is just 50 - Increase to 100 - FIXED
+- Remove repetative about page and replace it with docs.pedity.com - DONE 
+- Image size not showing properly on articles - FIXED 
+- Create Article Page improved
+- Removal of duplicate warning messages from alpha and authenticate page
+
+Planned Updates for Version 0.1.4, 0.1.5 etc
 - Scroll issue
 - Custom amount for tipping
-- NavBar not showing links on mobile
-- Addition of new editor
 - Other issues and planned feature additions
 
 
