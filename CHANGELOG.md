@@ -40,10 +40,23 @@ Version 0.1.3 - 03rd January 2019
 - Create Article Page improved
 - Removal of duplicate warning messages from alpha and authenticate page
 
-Planned Updates for Version 0.1.4, 0.1.5 etc
-- Scroll issue
-- Custom amount for tipping
-- Other issues and planned feature additions
+Version 0.1.4 - 15th January 2019
+- Kelp updated to 1.3.0 - DONE 0.1.4
+- Scroll issue on alpha page - ADDED 0.1.4
+- Change the article page and modify the layour - DONE 0.1.4
+- Modify width of articles - FIXED 0.1.4
+- Removal of gradient from navigation background - DONE 0.1.4
+- NEW - https://api.pedity.com now shows important infomation related to API release plan
 
+Planned Updates for Version 0.1.5, 0.1.6 etc
+- Disable Loading button when it is loading from API
+- Custom amount for tipping
+- Input validation for XSS checks
+- Adding of state management
+- Read More on blog page
+- Modify Profile to make it cooler
+- Modification of sidebar for better category etc
+- Addition of Pedity Docs - 0.1.7
+- Other issues and planned feature additions
 
 Use Github (https://github.com/PedityOfficial/Pedity-Platform/issues) or Telegram(https://t.me/pedity) for issue reporting.
