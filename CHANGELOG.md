@@ -46,6 +46,7 @@ Version 0.1.4 - 15th January 2019
 - Change the article page and modify the layour - DONE 0.1.4
 - Modify width of articles - FIXED 0.1.4
 - Removal of gradient from navigation background - DONE 0.1.4
+- Addition of Pedity Keybase - https://keybase.io/pedity
 - NEW - https://api.pedity.com now shows important infomation related to API release plan
 
 Planned Updates for Version 0.1.5, 0.1.6 etc
