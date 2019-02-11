@@ -49,7 +49,24 @@ Version 0.1.4 - 15th January 2019
 - Addition of Pedity Keybase - https://keybase.io/pedity
 - NEW - https://api.pedity.com now shows important infomation related to API release plan
 
-Planned Updates for Version 0.1.5, 0.1.6 etc
+Version 0.1.5 - 12th February 2019 - Major changes in API
+Backend Updates - 
+- Updated API endpoints in v1 
+- Added node related informtion
+- Updated go-stellar to latest version 
+- Different backend nodes can now be synced
+- pedi-api configuration is now added for easy running individual nodes
+- Reduced API load by reducing no of queries from frontend to API node
+- Fix an issue with create article not getting created in first run
+- Migrated go-ipfs from 0.4.16 to go-ipfs 0.4.18
+Frontend Updates - 
+- Updated js-stellar-sdk to latest version
+- Added setTimeout method on frontend for javascript sdk
+- Changed transaction signing to make sendings tips
+- Added new SSL certificate on frontend
+BLOCKING ISSUE- platform frontend unable to fetch ipfs content from different nodes (Fix planned by 0.1.6)
+
+Planned Updates for Version 0.1.6, 0.1.7 etc
 - Disable Loading button when it is loading from API
 - Custom amount for tipping
 - Input validation for XSS checks
