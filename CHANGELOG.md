@@ -59,6 +59,7 @@ Backend Updates -
 - Reduced API load by reducing no of queries from frontend to API node
 - Fix an issue with create article not getting created in first run
 - Migrated go-ipfs from 0.4.16 to go-ipfs 0.4.18
+
 Frontend Updates - 
 - Updated js-stellar-sdk to latest version
 - Added setTimeout method on frontend for javascript sdk
