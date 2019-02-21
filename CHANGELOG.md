@@ -65,17 +65,29 @@ Frontend Updates -
 - Added setTimeout method on frontend for javascript sdk
 - Changed transaction signing to make sendings tips
 - Added new SSL certificate on frontend
-BLOCKING ISSUE- platform frontend unable to fetch ipfs content from different nodes (Fix planned by 0.1.6)
 
-Planned Updates for Version 0.1.6, 0.1.7 etc
-- Disable Loading button when it is loading from API
-- Custom amount for tipping
+Version 0.1.6 - 21th February 2019
+- Create article fields are required and can't be empty - DONE 0.1.6
+- Preview button currently not working on creating article
+- Link to API on Pedity platform frontend - DONE 0.1.6
+- Addition of Nodes on Pedity Frontend - DONE 0.1.6
+- Removal of storage of private key and user needs public key - DONE 0.1.6
+- Creating content now requires private key since storage of key is removed - DONE 0.1.6
+- Custom amount for tipping - DONE 0.1.6
+- Disable Loading button when it is loading from API - DONE 0.1.6
+- XDR is now available when creating content so that user can submit XDR data on stellar labs - DONE 0.1.6
+- Modify icons on Preview and Create on create page - DONE 0.1.6
+
+## BLOCKING ISSUE- platform frontend unable to fetch ipfs content from different nodes (Fix planned by 0.1.6)
+
+Planned Updates for Version 0.1.7, 0.1.8 etc
+- Addition of Pedity Docs - 0.1.7
+- Fix profile and goal modification using private key
 - Input validation for XSS checks
 - Adding of state management
 - Read More on blog page
 - Modify Profile to make it cooler
 - Modification of sidebar for better category etc
-- Addition of Pedity Docs - 0.1.7
 - Other issues and planned feature additions
 
 Use Github (https://github.com/PedityOfficial/Pedity-Platform/issues) or Telegram(https://t.me/pedity) for issue reporting.
