@@ -78,10 +78,12 @@ Version 0.1.6 - 21th February 2019
 - XDR is now available when creating content so that user can submit XDR data on stellar labs - DONE 0.1.6
 - Modify icons on Preview and Create on create page - DONE 0.1.6
 
-## BLOCKING ISSUE- platform frontend unable to fetch ipfs content from different nodes (Fix planned by 0.1.7)
+Version 0.1.7 - 25th February 2019
+- Documentation Release - https://docs.pedity.com
 
-Planned Updates for Version 0.1.7, 0.1.8 etc
-- Addition of Pedity Docs - 0.1.7
+## BLOCKING ISSUE- platform frontend unable to fetch ipfs content from different nodes (Fix planned by 0.1.9)
+
+Planned Updates for Version 0.1.8, 0.1.9 etc
 - Fix profile and goal modification using private key
 - Input validation for XSS checks
 - Adding of state management
