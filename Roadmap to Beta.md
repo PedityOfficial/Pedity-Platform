@@ -22,5 +22,8 @@ Beta - Alpha v0.10 | Not started
 
 More subsequent information will be added based on future releases.
 
+Refer to WIP document on Pedity Docs for more detailed information
+https://docs.pedity.com/wip/
+
 ## Contact
 In case of any queries, contact us at t.me/pedity
