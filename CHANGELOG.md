@@ -94,6 +94,10 @@ Version 0.1.8 - 3rd March 2019
 - Store public key in browser storage on login - DONE 0.1.8
 - Addition of State management - DONE - 0.1.8
 - Check Authentication of page after cleaning keys - DONE 0.1.8
+ Update on Pedity Docs
+- Fix Concepts page having IPFS twice, where it should be IPFS and IPLD
+- On concepts page, Text for General section is not properly format
+- On Concepts page, Community is not updated properly
 
 ## BLOCKING ISSUE- platform frontend unable to fetch ipfs content from different nodes (Fix planned by 0.1.9)
 
