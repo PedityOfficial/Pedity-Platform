@@ -81,12 +81,25 @@ Version 0.1.6 - 21th February 2019
 Version 0.1.7 - 25th February 2019
 - Documentation Release - https://docs.pedity.com
 
+Version 0.1.8 - 3rd March 2019
+- Footer updated with more information - DONE 0.1.8
+- Social icons size updated to better match footer design - DONE 0.1.8
+- Subscription added monthly updates from Pedity - DONE 0.1.8
+- Pages that submit content now require authentication - DONE 0.1.8
+- Read More button is removed from Alpha page - DONE 0.1.8
+- Rewards page modified to specify 0.2 timelines - FIXED 0.1.8
+- Removal of redundant links from sidebar - DONE 0.1.8
+- Create now shows only to users with Valid public key - DONE 0.1.8
+- Clean renamed to Logout for regular convention - DONE 0.1.8
+- Store public key in browser storage on login - DONE 0.1.8
+- Addition of State management - DONE - 0.1.8
+- Check Authentication of page after cleaning keys - DONE 0.1.8
+
 ## BLOCKING ISSUE- platform frontend unable to fetch ipfs content from different nodes (Fix planned by 0.1.9)
 
-Planned Updates for Version 0.1.8, 0.1.9 etc
+Planned Updates for Version 0.1.9 and 0.2
 - Fix profile and goal modification using private key
 - Input validation for XSS checks
-- Adding of state management
 - Read More on blog page
 - Modify Profile to make it cooler
 - Modification of sidebar for better category etc
