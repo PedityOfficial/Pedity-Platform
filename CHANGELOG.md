@@ -100,7 +100,7 @@ Version 0.1.8 - 3rd March 2019
 - On concepts page, Text for General section is not properly format
 - On Concepts page, Community is not updated properly
 
-Version 0.1.8 - 6th March 2019
+Version 0.1.9 - 6th March 2019
 - Show blog even when the profile is not set - DONE 0.1.9
 - Show profile balance even when profile doesn't exist - DONE 0.1.9
 - Bug - Refresing removed login from the navbar even though user is logged in - FIXED 0.1.9
