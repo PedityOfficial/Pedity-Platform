@@ -100,14 +100,24 @@ Version 0.1.8 - 3rd March 2019
 - On concepts page, Text for General section is not properly format
 - On Concepts page, Community is not updated properly
 
-## BLOCKING ISSUE- platform frontend unable to fetch ipfs content from different nodes (Fix planned by 0.1.9)
+Version 0.1.8 - 6th March 2019
+- Show blog even when the profile is not set - DONE 0.1.9
+- Show profile balance even when profile doesn't exist - DONE 0.1.9
+- Bug - Refresing removed login from the navbar even though user is logged in - FIXED 0.1.9
+- Modify Profile to fix issues related to not loading data - DONE 0.1.9
+- Redesigned the profile page (Example: https://pedity.com/profile/GBB2S6FOUVNJW2OHOHORJK4N2HTIQYPVY3JCZVZ54CZZKSE2FVWW2O7Q) - DONE 0.1.9
+- Addition of Keybase in social profile fields - DONE 0.1.9
+- Fix profile and goal submission using private key - DONE 0.1.9
+- Fix redirects after modification of profile - DONE 0.1.9
+- Removal of links from sidebar - DONE 0.1.9
+- Update of About page - DONE 0.1.9
 
-Planned Updates for Version 0.1.9 and 0.2
-- Fix profile and goal modification using private key
-- Input validation for XSS checks
-- Read More on blog page
-- Modify Profile to make it cooler
-- Modification of sidebar for better category etc
-- Other issues and planned feature additions
+Update on backend
+ - FIXED BLOCKING ISSUE- platform frontend unable to fetch ipfs content from different nodes 
+ - Added keybase in schema data for profile
+ - Fixed missing data from blog endpoint
+
+Planned Updates for 0.2
+- Horizon release
 
 Use Github (https://github.com/PedityOfficial/Pedity-Platform/issues) or Telegram(https://t.me/pedity) for issue reporting.
