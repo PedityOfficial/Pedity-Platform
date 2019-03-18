@@ -117,7 +117,11 @@ Update on backend
  - Added keybase in schema data for profile
  - Fixed missing data from blog endpoint
 
-Planned Updates for 0.2
-- Horizon release
+Pedity 0.2 release
+https://medium.com/@pedity/pedity-alpha-0-2-on-the-horizon-bf4a51442f5e
+
+
+
+
 
 Use Github (https://github.com/PedityOfficial/Pedity-Platform/issues) or Telegram(https://t.me/pedity) for issue reporting.
