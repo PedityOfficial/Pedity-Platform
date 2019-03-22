@@ -120,8 +120,22 @@ Update on backend
 Pedity 0.2 release
 https://medium.com/@pedity/pedity-alpha-0-2-on-the-horizon-bf4a51442f5e
 
+Pedity 0.2.1 - 22nd March 2019
+- Fix incorrect image not available on Alpha, Blog, Article page
+- Fixed issue with reward page not showing last payments
+- Rewards server is now working properly with batch payments in 24 hours
+- Login error now shows minimum balance requirements
+- Fixed final transaction showing as blank on Alpha page
+- Error Messages are now more meaningful on Profile and article creation
+- Fixed secret key incorrect value on profile modification
+- Improved loading of Alpha page on mobile devices
+- Access to api.pedity.com to developers
 
-
+Upcoming features and updates
+- Allow users to copy XDR 
+- Allow users to see XDR on Edit profile
+- Modification of tips to design better
+- Search of content by v3
 
 
 Use Github (https://github.com/PedityOfficial/Pedity-Platform/issues) or Telegram(https://t.me/pedity) for issue reporting.
