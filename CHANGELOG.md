@@ -144,7 +144,8 @@ Pedity 0.2.2 - 1st March 2019
  Update on Pedity Docs
 - Update tutorials section in docs
 - Update opportunity section with information about Pedity API
-
+- Update of broken links on Pedity docs concepts section
+- Replace of old images with new images
 
 Upcoming features and updates
 - Allow users to see XDR on Edit profile
