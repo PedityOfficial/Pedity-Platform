@@ -131,11 +131,24 @@ Pedity 0.2.1 - 22nd March 2019
 - Improved loading of Alpha page on mobile devices
 - Access to api.pedity.com to developers
 
+Pedity 0.2.2 - 1st March 2019
+- If article image is invalid, hide image from article page and blog page to give cleaner look
+- After generating private and public key, they can be copied using single click
+- Copy button on XDR so that article can be created later
+- Fee information now available when creating article
+- Category text limit increased to 20 char
+- Creating of article now redirects to article
+- Success Article page removed
+- Modify Login text to Login/Generate Wallet
+
+ Update on Pedity Docs
+- Update tutorials section in docs
+- Update opportunity section with information about Pedity API
+
+
 Upcoming features and updates
-- Allow users to copy XDR 
 - Allow users to see XDR on Edit profile
 - Modification of tips to design better
 - Search of content by v3
-
 
 Use Github (https://github.com/PedityOfficial/Pedity-Platform/issues) or Telegram(https://t.me/pedity) for issue reporting.
