@@ -131,7 +131,7 @@ Pedity 0.2.1 - 22nd March 2019
 - Improved loading of Alpha page on mobile devices
 - Access to api.pedity.com to developers
 
-Pedity 0.2.2 - 1st March 2019
+Pedity 0.2.2 - 1st April 2019
 - If article image is invalid, hide image from article page and blog page to give cleaner look
 - After generating private and public key, they can be copied using single click
 - Copy button on XDR so that article can be created later
@@ -146,6 +146,25 @@ Pedity 0.2.2 - 1st March 2019
 - Update opportunity section with information about Pedity API
 - Update of broken links on Pedity docs concepts section
 - Replace of old images with new images
+
+Pedity 0.2.3 - 17th April 2019
+
+Introduction of Pedi-Pay -
+The first release of Pedi-Pay allows users to get paid instantly when they share content. The reward rate is currently set to 50 PEDI (increased from 20 PEDI) per article and equally rewarded to all users without any bias.
+- Pedi-pay base code will be open source in subsequent release by Alpha 0.2.5
+
+Pedity Platform Updates
+- Added option for 1-click setup of Lumenaut Inflation(Lumenaut.net)
+- Profile Data XDR now available (i.e. Profile, Goal, username, Inflation)
+- Readdition of article success page due to recent Stellar network conjestion
+- Addition of Wallet address on Alpha page
+- Addition of fixed reward rate information on rewards page
+- Addition of Loading on Rewards page
+- Removal of tips information on rewards page, it will be visible in a better way in coming releases
+- Fix related to content image showing on Mobile devices
+- Wallet address hidden on alpha page on mobile device
+- Fix text on Homepage related to Sharing of content
+- Removal of text on pediasset page as it is updated (More accounts will be added once we are on Alpha v0.2)
 
 Upcoming features and updates
 - Allow users to see XDR on Edit profile
