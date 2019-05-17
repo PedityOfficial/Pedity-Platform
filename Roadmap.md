@@ -37,5 +37,8 @@ Some features that will be added/tested till beta are :-
 8. Addition of Federation server to support human readable address such as Example*pedity.com
 9. And a lot more
 
-The things that are planned for next year includes rebranding, mobile platform release, advertising of PEDI , more utility of PEDI tokens. This Roadmap will be updated with more information depending on subsequent releases.
+Update 17 May 2019
+https://pedity.com/article/079fbd3de1d76e43cee524840379a566b75ef7099c14bc8ce81012e3ef1e5548
+
+This Roadmap will be updated with more information depending on subsequent releases.
 
